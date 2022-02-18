@@ -1,3 +1,12 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600&display=swap');
+
+/* My 'resets' */
+* {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* Normal Reset */
 *, 
 *:after,
 *:before {
