@@ -6,7 +6,7 @@ export const Container = styled.header`
   align-items: center;
   padding: 1em 0;
   width: 100%;
-  height: 20vh;
+  height: 15vh;
 `;
 
 export const HeaderText = styled.h1`
